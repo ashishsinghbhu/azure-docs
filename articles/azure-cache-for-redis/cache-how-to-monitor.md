@@ -35,7 +35,7 @@ The **Monitoring** section in the **Overview** blade has **Hits and Misses**, **
 
 ### Usage charts
 
-The **Usage** section in the **Overview** blade has **Redis Server Load**, **Memory Usage**, **Network Bandwidth**, and **CPU Usage** charts, and also displays the **Pricing tier** for the cache instance.
+The **Usage** section in the **Overview** blade has **Redis Server Load**, **Memory Usage** and **CPU Usage** charts, and also displays the **Pricing tier** for the cache instance.
 
 ![Usage charts](./media/cache-how-to-monitor/redis-cache-usage-part.png)
 
